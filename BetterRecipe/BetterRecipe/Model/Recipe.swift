@@ -1,10 +1,3 @@
-//
-//  File.swift
-//  BetterRecipe
-//
-//  Created by Catalin Posedaru on 15/12/25.
-//
-
 import Foundation
 import SwiftData
 

@@ -1,10 +1,3 @@
-//
-//  FilteredRecipeList.swift
-//  BetterRecipe
-//
-//  Created by Catalin Posedaru on 16/12/25.
-//
-
 import SwiftUI
 import SwiftData
 
